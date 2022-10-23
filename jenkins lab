@@ -1,0 +1,8 @@
+================jenkins===============
+1.jenkins installation
+2.jenkins sample project 
+3.jenkins master slave configuration using
+   ------non  verifying strategy
+   ------know host verification strategy
+4.jenkins maven building
+5.jenkins user management using rolebased strategy plugin
