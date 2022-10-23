@@ -1,0 +1,16 @@
+git practice:
+ 1.git init
+ 2.git configure
+ 3.git remote
+ 4.git add
+ 5.git commit
+ 6.git status
+ 7.git log 
+ 8.git merge 
+ 9.git rebase
+ 10.git branch
+ 11.git checkout
+ 12.git pull
+ 13.git fetch
+ 14.git stash
+ 
